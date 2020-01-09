@@ -1,0 +1,64 @@
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\x64\Debug\SWS.Key.dll
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\x64\Debug\SWS.Key.pdb
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\x64\Debug\CANComm.dll
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\x64\Debug\Nile.Definition.dll
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\x64\Debug\TestClassBase.dll
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\x64\Debug\Nile.Definition.pdb
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\x64\Debug\TestClassBase.pdb
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\x64\Debug\CANComm.pdb
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\obj\x64\Debug\SWS.csprojAssemblyReference.cache
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\obj\x64\Debug\SWS.csproj.CopyComplete
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\obj\x64\Debug\SWS.Key.dll
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\obj\x64\Debug\SWS.Key.pdb
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\bin\x64\Debug\SWS.Key.dll
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\bin\x64\Debug\SWS.Key.pdb
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\bin\x64\Debug\CANComm.dll
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\bin\x64\Debug\Nile.Definition.dll
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\bin\x64\Debug\TestClassBase.dll
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\bin\x64\Debug\Nile.Definition.pdb
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\bin\x64\Debug\TestClassBase.pdb
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\bin\x64\Debug\CANComm.pdb
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\obj\x64\Debug\SWS.csprojAssemblyReference.cache
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\obj\x64\Debug\SWS.csproj.CopyComplete
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\obj\x64\Debug\SWS.Key.dll
+D:\Demo\VisionTest1\AutomotiveElectronic\CANComm\SWS.Key\obj\x64\Debug\SWS.Key.pdb
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\SWS.Key.dll
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\SWS.Key.pdb
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\CANComm.dll
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\Nile.Definition.dll
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\TestClassBase.dll
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\Nile.Definition.pdb
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\TestClassBase.pdb
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\CANComm.pdb
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Demo\VisionTest1\CANComm\SWS.Key\obj\x64\Debug\SWS.csprojAssemblyReference.cache
+D:\Demo\VisionTest1\CANComm\SWS.Key\obj\x64\Debug\SWS.csproj.CopyComplete
+D:\Demo\VisionTest1\CANComm\SWS.Key\obj\x64\Debug\SWS.Key.dll
+D:\Demo\VisionTest1\CANComm\SWS.Key\obj\x64\Debug\SWS.Key.pdb
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg411.dll
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg411.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\SWS.Key.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\SWS.Key.pdb
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\CANComm.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\Nile.Definition.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\TestClassBase.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\Nile.Definition.pdb
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\TestClassBase.pdb
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\CANComm.pdb
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\obj\x64\Debug\SWS.csprojAssemblyReference.cache
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\obj\x64\Debug\SWS.csproj.CopyComplete
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\obj\x64\Debug\SWS.Key.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\CANComm\SWS.Key\obj\x64\Debug\SWS.Key.pdb

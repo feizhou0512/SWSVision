@@ -1,0 +1,14 @@
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\obj\Debug\SWS.csprojAssemblyReference.cache
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\Debug\SWS.Key.dll
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\Debug\SWS.Key.pdb
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\Debug\CANComm.dll
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\Debug\Nile.Definition.dll
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\Debug\TestClassBase.dll
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\Debug\Nile.Definition.pdb
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\Debug\TestClassBase.pdb
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\Debug\CANComm.pdb
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\bin\Debug\Newtonsoft.Json.xml
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\obj\Debug\SWS.csproj.CopyComplete
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\obj\Debug\SWS.Key.dll
+D:\Demo\AutomotiveElectronic-master\CANComm\SWS.Key\obj\Debug\SWS.Key.pdb

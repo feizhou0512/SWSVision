@@ -1,0 +1,7 @@
+D:\Demo\AutomotiveElectronic-master\Nile\Definition\Nile.Definition\Nile.Definition\bin\Debug\Nile.Definition.dll
+D:\Demo\AutomotiveElectronic-master\Nile\Definition\Nile.Definition\Nile.Definition\bin\Debug\Nile.Definition.pdb
+D:\Demo\AutomotiveElectronic-master\Nile\Definition\Nile.Definition\Nile.Definition\obj\Debug\Nile.Definition.dll
+D:\Demo\AutomotiveElectronic-master\Nile\Definition\Nile.Definition\Nile.Definition\obj\Debug\Nile.Definition.pdb
+D:\Demo\AutomotiveElectronic-master\Nile\Definition\Nile.Definition\Nile.Definition\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\AutomotiveElectronic-master\Nile\Definition\Nile.Definition\Nile.Definition\bin\Debug\Newtonsoft.Json.xml
+D:\Demo\AutomotiveElectronic-master\Nile\Definition\Nile.Definition\Nile.Definition\obj\Debug\Nile.Definition.csproj.CopyComplete

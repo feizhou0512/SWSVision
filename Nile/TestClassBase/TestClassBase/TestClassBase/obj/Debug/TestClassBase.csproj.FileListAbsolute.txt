@@ -1,0 +1,10 @@
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\obj\Debug\TestClassBase.csprojAssemblyReference.cache
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\bin\Debug\TestClassBase.dll
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\bin\Debug\TestClassBase.pdb
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\bin\Debug\Nile.Definition.dll
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\bin\Debug\Nile.Definition.pdb
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\bin\Debug\Newtonsoft.Json.xml
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\obj\Debug\TestClassBase.csproj.CopyComplete
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\obj\Debug\TestClassBase.dll
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\obj\Debug\TestClassBase.pdb

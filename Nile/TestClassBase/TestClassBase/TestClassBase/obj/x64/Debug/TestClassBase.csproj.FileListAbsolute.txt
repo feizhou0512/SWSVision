@@ -1,0 +1,40 @@
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\TestClassBase.dll
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\TestClassBase.pdb
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Nile.Definition.dll
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Nile.Definition.pdb
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.csprojAssemblyReference.cache
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.csproj.CopyComplete
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.dll
+D:\Demo\AutomotiveElectronic-master\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.pdb
+D:\Demo\VisionTest1\AutomotiveElectronic\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\TestClassBase.dll
+D:\Demo\VisionTest1\AutomotiveElectronic\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\TestClassBase.pdb
+D:\Demo\VisionTest1\AutomotiveElectronic\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Demo\VisionTest1\AutomotiveElectronic\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Nile.Definition.dll
+D:\Demo\VisionTest1\AutomotiveElectronic\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Nile.Definition.pdb
+D:\Demo\VisionTest1\AutomotiveElectronic\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Demo\VisionTest1\AutomotiveElectronic\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.csprojAssemblyReference.cache
+D:\Demo\VisionTest1\AutomotiveElectronic\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.csproj.CopyComplete
+D:\Demo\VisionTest1\AutomotiveElectronic\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.dll
+D:\Demo\VisionTest1\AutomotiveElectronic\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.pdb
+D:\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\TestClassBase.dll
+D:\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\TestClassBase.pdb
+D:\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Nile.Definition.dll
+D:\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Nile.Definition.pdb
+D:\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.csprojAssemblyReference.cache
+D:\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.csproj.CopyComplete
+D:\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.dll
+D:\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.pdb
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\TestClassBase.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\TestClassBase.pdb
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Nile.Definition.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Nile.Definition.pdb
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.csprojAssemblyReference.cache
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.csproj.CopyComplete
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.dll
+D:\Automobile electronics\Development ICT\Demo\VisionTest1\Nile\TestClassBase\TestClassBase\TestClassBase\obj\x64\Debug\TestClassBase.pdb
